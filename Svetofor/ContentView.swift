@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+
 enum ColorSvet {
     case red
     case orange
